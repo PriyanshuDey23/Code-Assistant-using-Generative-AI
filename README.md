@@ -1,1 +1,1 @@
-# Code-Assistant-using-Generative-AI
+# Code-Assistant-using-codellama
